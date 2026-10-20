@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
 </p>
 
-<h1 align="center">🎙️ STM32 Voice Modifier Walkie-Talkie</h1>
+<h1 align="center">🎙️ 4 Mode Embedded Voice Transformation System Using STM32F4VE</h1>
 
 <p align="center">
   <b>A bare-metal real-time DSP system that captures, transforms, and plays back voice audio using 4 unique processing modes — all running on an ARM Cortex-M4 microcontroller with zero OS overhead.</b>
